@@ -1,7 +1,7 @@
 -- Limpa notificacao
 DROP TABLE IF EXISTS notificacao;
 
--- Limpa dispositivo
+-- Limpa temperatura
 DROP TABLE IF EXISTS temperatura;
 
 -- Tabela dispositivo
