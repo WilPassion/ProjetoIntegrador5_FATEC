@@ -36,3 +36,5 @@ O **PetH₂O** é um sistema IoT (Internet das Coisas) desenvolvido para monitor
 
 ## 🧠 Arquitetura do Sistema
 
+<img align="center" src="https://github.com/WilPassion/ProjetoIntegrador5_FATEC/blob/main/arquitetura.PNG" alt="diagram" width="700"> 
+
